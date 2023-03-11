@@ -1,1 +1,1 @@
-<h1>Hi,I,m Sameer Malik</h1>
+<h1 align="center">Hi,I,m Sameer Malik</h1>
